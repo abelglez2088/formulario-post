@@ -25,8 +25,7 @@ formulario.addEventListener('submit',function(e){
         <div class="alert alert-primary" role="alert">
             ${data}
         </div>
-        `       
-
+       `       
      }
     })
 })
